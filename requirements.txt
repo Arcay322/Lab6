@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+Pyro4
+jinja2
